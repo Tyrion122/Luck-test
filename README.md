@@ -1,3 +1,3 @@
 # Luck-test
 
-https://tyrion122.github.io/Quiz-App/
+https://tyrion122.github.io/Luck-test/
