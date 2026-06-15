@@ -3,3 +3,7 @@ section{
     width:max-content;
     border: 1px, solid;
 }
+
+h2{
+    text-align: center;
+}
